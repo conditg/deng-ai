@@ -18,6 +18,6 @@ Start [Here](https://github.com/conditg/deng-ai/blob/master/DengAI.pdf). **For i
 - [Iquitos](https://github.com/conditg/deng-ai/blob/master/Iquitos.ipynb)
 
 ### Modelling
-- LSTM
+- [LSTM (San Juan only)](https://github.com/conditg/deng-ai/blob/master/LSTM_SanJuan.ipynb)
 - [Random Forest Regressor with Peak Boosting](https://github.com/conditg/deng-ai/blob/master/RandomForestRegressor_with_PeakBoosting.ipynb)
 
