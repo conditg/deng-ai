@@ -6,7 +6,7 @@ DrivenData has launched a competition called "DengAI: Predicting Disease Spread"
 The data is provided by DrivenData and is aggregated from a number of publicly available sources detailed [here](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/82/). 
 
 
-Start [Here](https://github.com/conditg/deng-ai/blob/master/DengAI.pdf). **For information about this project, see** [**this summary**](https://www.gregcondit.com/projects/dengue-fever).**
+Start [Here](https://github.com/conditg/deng-ai/blob/master/DengAI.pdf). **For information about this project, see** [**this summary**](https://www.gregcondit.com/projects/dengue-fever).
 
 ![MosquitoHeader](/images/header.png)
 
